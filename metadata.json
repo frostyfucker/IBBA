@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Bug Bounty Assistant",
+  "description": "An AI-powered assistant to help security researchers analyze code, generate payloads, and draft vulnerability reports using the Gemini API.",
+  "requestFramePermissions": []
+}
